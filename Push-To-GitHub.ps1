@@ -1,5 +1,5 @@
 param(
-    [string]$RepoUrl = "https://github.com/safee-ullah-muhgal/vozyra.git"
+    [string]$RepoUrl = "https://github.com/Safee-Ullah-Mughal/Vozyra.git"
 )
 
 $ErrorActionPreference = "Stop"
