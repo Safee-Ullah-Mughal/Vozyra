@@ -1,0 +1,12 @@
+# Ignore any accidental binary, credentials, or keys
+*.key
+*.dat
+*.json
+*.zip
+*.pdb
+*.exe
+*.dll
+bin/
+obj/
+.vs/
+.idea/
