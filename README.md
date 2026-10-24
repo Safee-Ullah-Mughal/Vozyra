@@ -204,8 +204,8 @@ Vozyra is available under private commercial licenses and white-label agency par
 
 - **Founder & Agency Owner**: Safee Ullah Mughal
 - **Email**: [pkwaster@gmail.com](mailto:pkwaster@gmail.com)
-- **GitHub**: [@safee-ullah-muhgal](https://github.com/safee-ullah-muhgal)
-- **Repository**: [Vozyra AI Voice Suite](https://github.com/safee-ullah-muhgal/vozyra)
+- **GitHub**: [@Safee-Ullah-Mughal](https://github.com/Safee-Ullah-Mughal)
+- **Repository**: [Vozyra AI Voice Suite](https://github.com/Safee-Ullah-Mughal/Vozyra)
 
 ---
 
